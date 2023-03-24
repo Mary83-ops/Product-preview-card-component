@@ -13,7 +13,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Links
 
 - [Solution URL](https://github.com/Mary83-ops/Product-preview-card-component.git)
-- [Live Site URL](https://mary83-ops.github.io/Results-summary-component/)
+- [Live Site URL](https://mary83-ops.github.io/Product-preview-card-component/)
 
 ## Built with
 
