@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-![](./images/screenshot.png)
+![](./images/screenshot.PNG)
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -12,7 +12,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Links
 
-- [Solution URL](https://github.com/Mary83-ops/frontendmentor-projects.git)
+- [Solution URL](https://github.com/Mary83-ops/Product-preview-card-component.git)
 - [Live Site URL](https://mary83-ops.github.io/Results-summary-component/)
 
 ## Built with
